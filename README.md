@@ -1,1 +1,3 @@
-# NeXt
+# NeXtStep
+
+www.nextcomputers.org
